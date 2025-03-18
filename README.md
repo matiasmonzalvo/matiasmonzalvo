@@ -1,13 +1,11 @@
-[![MasterHead](https://www.matiasmonzalvo.com/img/GITHUB-HEADER.png)](https://matiasmonzalvo.com)
-
 <h1 align="left">I'm Matias</h1>
-<h3 align="left">A 20-year-old UX/UI expert</h3>
+<h3 align="left">A 21-year-old UX/UI expert</h3>
 
 <p align="left">------------------------------------------------------------------------------------</p>
 
-- 👨‍💻 All of my projects are available at [My portfolio]([matiasmonzalvo.com](https://portfolio-2025-fawn-xi.vercel.app/))
+- 👨‍💻 All of my projects are available at ([My portfolio](https://portfolio-2025-fawn-xi.vercel.app/))
 
-- 📫 How to reach me **hello@matiasmonzalvo.com**
+- 📫 How to reach me **matiasdanielmonzalvo@gmail.com**
 
 <p align="left">------------------------------------------------------------------------------------</p>
 
